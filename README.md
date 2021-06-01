@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I'm Mira'le! 👋
 
+- I love to get an idea and then make it real, by code.
+- 🌱 I’m soon finishing a full-stack intensive bootcamp in Appleseeds.
 <!--
 **miraleJ/miraleJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
