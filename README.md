@@ -32,6 +32,6 @@
 
 ![miraleJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miraleJ&count_private=true&show_icons=true)
 
-</br>
+</br> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraleJ&layout=compact&card_width=445)
