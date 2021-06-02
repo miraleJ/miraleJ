@@ -10,6 +10,7 @@
 [linkedin]: https://linkedin.com/in/mira-le-yosman-19070145
 [Mail]: mailto:miralek@gmail.com
 
+</br>
 
 ### Languages and Tools:
 
