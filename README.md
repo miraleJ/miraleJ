@@ -24,6 +24,8 @@
 <img width="22px" title="MongoDB" align="left" alt="MongoDB" src="https://pbs.twimg.com/profile_images/704402008854364160/dIYPdBiR.jpg" />
 <img width="22px" title="GitHub" align="left" alt="GitHub" src="https://p.kindpng.com/picc/s/255-2558173_github-logo-png-transparent-png.png" />
 <img width="22px" title="Express.js" align="left" alt="Express.js" src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2">
+<img width="22px" title="Postman" align="left" alt="Postman" src="https://www.logolynx.com/images/logolynx/f5/f5d41d6b7c54dafe7cd717d09903c275.jpeg">
+
 
 </br>
 </br>
