@@ -2,6 +2,7 @@
 
 - I love to get an idea and then make it real, by code.
 - 🌱 I’m soon finishing a full-stack intensive bootcamp in Appleseeds. Open to suggestions!
+-  Looking to collaborate with other content creators.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-512.png" />][linkedin]
