@@ -29,7 +29,7 @@
 <img width="35px" title="JavaScript" align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img width="35px" title="React" align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img width="35px" title="Nodejs" align="left" alt="Nodejs" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-<img width="35px" title="MongoDB" align="left" alt="MongoDB" src="https://pbs.twimg.com/profile_images/704402008854364160/dIYPdBiR.jpg" />
+<img width="35px" title="MongoDB" align="left" alt="MongoDB" src="https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-sm-logo.gif" />
 <img width="35px" title="GitHub" align="left" alt="GitHub" src="https://p.kindpng.com/picc/s/255-2558173_github-logo-png-transparent-png.png" />
 <img width="35px" title="Express.js" align="left" alt="Express.js" src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2">
 <img width="35px" title="Postman" align="left" alt="Postman" src="https://www.logolynx.com/images/logolynx/f5/f5d41d6b7c54dafe7cd717d09903c275.jpeg">
